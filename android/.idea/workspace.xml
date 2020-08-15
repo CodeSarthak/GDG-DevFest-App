@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda70e22-01b1-4acd-9143-926846fa2d25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/bin/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/config/config_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/config/config_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/home/home_widgets/home_front.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/home/home_widgets/home_front.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/devfest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/utils/devfest.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1g5jPXBhsqtL7NDhYNglXlHzpyH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda70e22-01b1-4acd-9143-926846fa2d25" name="Default Changelist" comment="" />
+      <created>1597411323596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597411323596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1597411475139">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="412" y="302" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1597411475139" />
+  </component>
+</project>
